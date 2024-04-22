@@ -1,0 +1,29 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #333; 
+    text-align: center;
+    background-color: crimson;
+}
+
+.contenedor {
+    margin: 20px;
+    padding: 10px;
+}
+
+.imagen-comic {
+    border: 10px solid  #333; /* Borde negro para las imágenes */
+    margin-bottom: 15px; /* Espacio debajo de cada imagen */
+}
+
+.descripcion {
+    margin-bottom: 20px; /* Espacio debajo de cada descripción */
+    padding: 5px;
+}
+.imagen-comic2{
+    border: 10px solid  #333; /* Borde negro para las imágenes */
+    margin-bottom: 15px; /* Espacio debajo de cada imagen */    
+}
+.imagen-comic3{
+    border: 10px solid  #333; /* Borde negro para las imágenes */
+    margin-bottom: 15px; /* Espacio debajo de cada imagen */  
+}
